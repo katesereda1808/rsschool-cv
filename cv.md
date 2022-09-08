@@ -19,7 +19,12 @@ I am a Frontend developer from Moscow
 ---
 ### :hammer_and_wrench: Skills
 ---
-
+- [x] HTML
+- [x] CSS
+- [x] JS
+- [x] React
+- [x] Redux
+- [ ] TS
 
 ---
 ### Education
